@@ -1,0 +1,26 @@
+{
+  "name": "nhack",
+  "version": "0.0.0",
+  "description": "NHack ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://htmlguy@github.com/htmlguy/nhack"
+  },
+  "keywords": [
+    "hack",
+    "nhack",
+    "nmap",
+    "network",
+    "scan",
+    "scanner"
+  ],
+  "author": "vkhsoft",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/htmlguy/nhack/issues"
+  }
+}
