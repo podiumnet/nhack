@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "nhack": "./compiled/index.js"
+    "nhack": "nhack.sh"
   },
   "repository": {
     "type": "git",
