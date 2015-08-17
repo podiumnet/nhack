@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 (function() {
   var list, pkg, program, scanIp, scanLan;
 
