@@ -16,8 +16,8 @@ After that, you can run nhack as a normal user:
 NHack scans the local network when run.
 It supports the following options:
 
-|Option|Description
-|-               |-
-|`-p, --port <ports>`|Scan a specific set of ports instead of all ports.
-|`-h, --help`        |View help information.
-|`-v, --version`     |View version information.
+|Option|Description|
+|---|---|
+|`-p, --port <ports>`|Scan a specific set of ports instead of all ports.|
+|`-h, --help`|View help information.|
+|`-v, --version`|View version information.|
