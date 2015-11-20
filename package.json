@@ -1,14 +1,14 @@
 {
   "name": "nhack",
   "version": "1.0.1",
-  "description": "NHack ",
+  "description": "NHack is a network scanner using nmap.",
   "preferGlobal": true,
   "bin": {
     "nhack": "compiled/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/htmlguy/nhack"
+    "url": "https://github.com/podiumnet/nhack"
   },
   "keywords": [
     "hack",
@@ -18,10 +18,10 @@
     "scan",
     "scanner"
   ],
-  "author": "vkhsoft",
+  "author": "podiumnet",
   "license": "Unlicense",
   "bugs": {
-    "url": "https://github.com/htmlguy/nhack/issues"
+    "url": "https://github.com/podiumnet/nhack/issues"
   },
   "devDependencies": {
     "grunt": "~0.4.5",
